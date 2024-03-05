@@ -6,7 +6,7 @@ This is Infinity. Nice to meet you! 👋
 <!-- prettier-ignore -->
 <section>
 
-> \>>_descriptors required?_
+> \>>_descriptors required?_</br>
 > ‎
 > `🌱 a budding developer on his way to world domination.`</br>
 > `💖 silly goose who fancies anything with electrons.` </br>
