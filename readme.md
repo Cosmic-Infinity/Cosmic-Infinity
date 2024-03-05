@@ -8,11 +8,11 @@ This is Infinity. Nice to meet you! 👋
 
 > \>>_descriptors required?_
 > ‎
-> `🌱 a budding developer on his way to world domination.`
-> `💖 silly goose who fancies anything with electrons.`
-> `🎮 games wasted half my life.`
-> `🖥️ computers wasted the other half.`
-> `🧠 certified Big Brane.`
-> `✨ thinks stars are cool.`
+> `🌱 a budding developer on his way to world domination.`</br>
+> `💖 silly goose who fancies anything with electrons.` </br>
+> `🎮 games wasted half my life.`</br>
+> `🖥️ computers wasted the other half.`</br>
+> `🧠 certified Big Brane.`</br>
+> `✨ thinks stars are cool.`</br>
 
   </section>
