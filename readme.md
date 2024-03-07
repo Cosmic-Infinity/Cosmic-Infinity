@@ -13,6 +13,6 @@ This is Infinity. Nice to meet you! 👋
 > `🎮 games wasted half my life`</br>
 > `🖥️ computers wasted the other half`</br>
 > `🧠 certified Big Brane`</br>
-> `✨ thinks stars are cool`</br>
+> `🌠 thinks stars are cool`</br>
 
   </section>
