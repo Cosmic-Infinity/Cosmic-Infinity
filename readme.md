@@ -8,7 +8,7 @@ This is Infinity. Nice to meet you! 👋
 
 > \>>_descriptors required?_</br>
 > ‎
-> `🌱 a budding developer on his way to world domination`</br>
+> `🌱 budding developer on his way to world domination`</br>
 > `💖 silly goose who fancies anything and everything` </br>
 > `🎮 games wasted half my life`</br>
 > `🖥️ computers wasted the other half`</br>
