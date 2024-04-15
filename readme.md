@@ -6,13 +6,13 @@ This is Infinity. Nice to meet you! 👋
 <!-- prettier-ignore -->
 <section>
 
-> \>>_descriptors required?_</br>
+> \>>_descriptors?_</br>
 > ‎
 > `🌱 budding developer on his way to world domination`</br>
-> `💖 silly goose who fancies anything and everything` </br>
+> `💖 silly goose with a fascination for artsy things` </br>
+> `🌠 thinks stars are cool`</br>
 > `🎮 games wasted half my life`</br>
 > `🖥️ computers wasted the other half`</br>
-> `🧠 certified Big Brane`</br>
-> `🌠 thinks stars are cool`</br>
+> `🧠 certified big brane`</br>
 
   </section>
