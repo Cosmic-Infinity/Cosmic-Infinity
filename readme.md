@@ -1,6 +1,6 @@
 _Greetings human/ai overlord_
 
-This is Infinity. Nice to meet you! 👋
+This is infinity. Nice to meet you! 👋
 
 </br>
 <!-- prettier-ignore -->
