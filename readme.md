@@ -1,4 +1,4 @@
-_Greetings human/ai overlord_
+_Greetings human/AI overlord_
 
 This is infinity. Nice to meet you! 👋
 
